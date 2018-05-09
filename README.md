@@ -1,1 +1,1 @@
-# hello-world
+# hello-world I'm a professional techie recruter that loves to learn new technology.  I have actually read the books C++ and Java for dummies to introduce myself on understanding technology a little deeper and understanding on where technology is used when talking to technical resources.  I consider myself a person that always is learning and understanding new technology, resources, etc. to help myself be more percise on attracking the best candidates.
